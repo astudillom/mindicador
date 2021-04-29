@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 Para inciar el proyecto se debe primero instalar los modulos necesarios con el comando "npm install" y luego con el comando
-"ng serve" para iniciar el modo desarrollador del servidor para visualizar el proyecto en un navegador
+"ng serve" para iniciar el modo desarrollador del servidor con el cual se podrá visualizar el proyecto en un navegador
 
 ## Development server
 
